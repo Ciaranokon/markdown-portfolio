@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+List of favourite things
+- Learning Web Development
+- Ice-Cream
+- Cats
