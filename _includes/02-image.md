@@ -1,0 +1,1 @@
+![Image of a Cat](https://cdn.pixabay.com/photo/2016/02/10/07/04/cabin-1191176_960_720.jpg)
